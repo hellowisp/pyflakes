@@ -1,0 +1,7 @@
+-   id: pyflakes
+    name: pyflakes
+    description: '`pyflakes` is a simple program which checks Python source files for errors'
+    entry: pyflakes
+    language: python
+    types: [python]
+    require_serial: true
